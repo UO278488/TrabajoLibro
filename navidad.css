@@ -1,0 +1,77 @@
+/* Estilos para el body */
+nav {
+  background-color: #fff;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+}
+
+a {
+  display: block;
+  color: #00f;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #e6e6e6;
+  color: #00f;
+}
+body {
+    background-color: #f1f1f1;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Estilos para el contenedor */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  /* Estilos para los post */
+  .post {
+    background-color: #fff;
+    margin: 20px 0;
+    padding: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+  }
+  
+  /* Estilos para las imágenes */
+  .post img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Estilos para los títulos */
+  .post h2 {
+    font-size: 32px;
+    margin-top: 0;
+  }
+  
+  /* Estilos para las fechas */
+  .post .date {
+    color: #999;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilos para los extractos */
+  .post .excerpt {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  /* Estilos para las listas */
+  .post .list {
+    font-size: 18px;
+    line-height: 1.5;
+    margin-left: 30px;
+  }
