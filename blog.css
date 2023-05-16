@@ -28,6 +28,9 @@ body {
     background-color: #F7F7F7;
     font-family: Arial, sans-serif;
   }
+  h1{
+    text-align: center;
+  }
   
   .container {
     max-width: 800px;
